@@ -23,8 +23,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/flask-jwt-auth-app.git
-   cd flask-jwt-auth-app
+   git clone https://github.com/lordlegacy/flask-authentication.git
+   cd flask-authentication
    ```
 
 2. Create a virtual environment and activate it:
